@@ -1,2 +1,2 @@
 # curso_qa
-Curso QA - exercícios
+Curso QA - teste inicial
